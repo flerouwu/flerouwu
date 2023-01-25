@@ -93,7 +93,7 @@ Markdown         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ###
 
 <div align="left">
-  <img src="https://spotify-readme-flero.vercel.app/api?theme=dark&spin=false&scan=true&rainbow=false" alt="Widget with the current Spotify song"  />
+  <img src="https://spotify-readme-lac.vercel.app/api?theme=dark&spin=false&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
