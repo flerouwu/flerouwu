@@ -1,94 +1,134 @@
-<h1 align="center">👋 Hi, I'm Flero!</h1>
+<!-- Link References  -->
+[discord]: https://discord.com/users/1059375676769189938
+[email]: mailto:flero@flero.dev
+[telegram]: https://t.me/flerouwu
+[twitter]: https://twitter.com/flerouwu
+[website]: https://flero.dev
+[github]: https://github.com/flerouwu
 
-###
+[dashit]: https://dashit.dev/
 
-<h3 align="center">📊 GitHub Stats</h3>
+[kotlin]: https://kotlinlang.org/
+[rust]: https://www.rust-lang.org/
+[typescript]: https://www.typescriptlang.org/
+[csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[react]: https://reactjs.org/
+[nextjs]: https://nextjs.org/
+[electron]: https://www.electronjs.org/
+[spring]: https://spring.io/
+[ktor]: https://ktor.io/
+[discordjs]: https://discord.js.org/
+[postgresql]: https://www.postgresql.org/
+[mariadb]: https://mariadb.org/
+[redis]: https://redis.io/
+[vscode]: https://code.visualstudio.com/
+[visualstudio]: https://visualstudio.microsoft.com/
+[intellijidea]: https://www.jetbrains.com/idea/
+[git]: https://git-scm.com/
+[docker]: https://www.docker.com/
+[cloudflare]: https://www.cloudflare.com/
+[tailwindcss]: https://tailwindcss.com/
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=flerodev" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=flerodev" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="center">📙 What I Know</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" width="42" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="30" width="42" alt="gradle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-</div>
-
-###
-
-<h5 align="left"></h5>
-
-###
-
-<h3 align="center">🤙 Contact Me</h3>
-
-###
+[cpulink]: https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x
+[gpulink]: https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3060-3060ti/
+[motherboardlink]: https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/
+<!-- End Link References -->
 
 <div align="center">
-  <a href="https://discord.com/users/1059375676769189938" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/flerouwu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+
+# 👋 Heyo, I'm Flero!
+
 </div>
 
-###
+<div>
+<div align="left" style="float: left; width: 40%;">
 
-<h5 align="left"></h5>
+🌏 **Location:** South Australia
 
-###
+🤙 **Pronouns:** He/Him
 
-<h3 align="left">🧑‍💻Weekly Development Breakdown</h3>
+📫 **Contact:** [Email][email] | [Discord][discord] | [Twitter][twitter] | [Telegram][telegram]
 
-###
+📚 **Currently Learning:** [Kotlin][kotlin] and [Rust][rust]
+
+📝 **Currently Working On:** [DashIt!][dashit]
+
+</div>
+
+<div align="right" style="float: right; width: 55%;">
+
+<img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=flerouwu" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&langs_count=5&theme=github_dark&hide_border=true&username=flerouwu&layout=compact" alt="languages graph" height="150"  />
+
+</div>
+</div>
+
+<div>
+<div style="float: left;" align="left">
+
+## Known Languages / Tools
+
+###### Languages
+
+[![TypeScript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=0178ca&logoColor=white&labelColor=&style=flat-square)][typescript] [![Kotlin](https://img.shields.io/static/v1?message=Kotlin&logo=Kotlin&label=&color=993ef9&logoColor=white&labelColor=&style=flat-square)][kotlin] [![C#](https://img.shields.io/static/v1?message=C%23&logo=csharp&label=&color=1c9c23&logoColor=white&labelColor=&style=flat-square)][csharp]
+
+###### Frameworks
+
+[![Next.js](https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=flat-square)][nextjs] [![React](https://img.shields.io/static/v1?message=React&logo=React&label=&color=61dafb&logoColor=black&labelColor=&style=flat-square)][react] [![Electron](https://img.shields.io/static/v1?message=Electron&logo=electron&label=&color=9ee9f8&logoColor=black&labelColor=&style=flat-square)][electron]
+<br>
+[![Spring](https://img.shields.io/static/v1?message=Spring&logo=Spring&label=&color=6cb52d&logoColor=white&labelColor=&style=flat-square)][spring]
+[![Ktor](https://img.shields.io/static/v1?message=Ktor&logo=Ktor&label=&color=6373ff&logoColor=black&labelColor=&style=flat-square)][ktor]
+[![Discord.js](https://img.shields.io/static/v1?message=Discord.js&logo=Discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat-square)][discordjs]
+
+###### Databases
+
+[![PostgreSQL](https://img.shields.io/static/v1?message=Postgresql&logo=postgresql&label=&color=326590&logoColor=white&labelColor=&style=flat-square)][postgresql] [![MariaDB](https://img.shields.io/static/v1?message=MariaDB&logo=MariaDB&label=&color=c0765a&logoColor=white&labelColor=&style=flat-square)][mariadb] [![Redis](https://img.shields.io/static/v1?message=Redis&logo=redis&label=&color=cf281b&logoColor=white&labelColor=&style=flat-square)][redis]
+
+###### IDEs and Editors
+
+<!-- VSCode, Visual Studio, IntelliJ IDEA -->
+
+[![VSCode](https://img.shields.io/static/v1?message=VSCode&logo=Visual%20Studio%20Code&label=&color=007acc&logoColor=white&labelColor=&style=flat-square)][vscode] [![Visual Studio](https://img.shields.io/static/v1?message=Visual%20Studio&logo=Visual%20Studio&label=&color=5c2d91&logoColor=white&labelColor=&style=flat-square)][visualstudio] [![IntelliJ IDEA](https://img.shields.io/static/v1?message=IntelliJ%20IDEA&logo=IntelliJ%20IDEA&label=&color=000000&logoColor=white&labelColor=&style=flat-square)][intellijidea]
+
+###### Misc
+
+[![Git](https://img.shields.io/static/v1?message=Git&logo=Git&label=&color=F05032&logoColor=white&labelColor=&style=flat-square)][git] [![Docker](https://img.shields.io/static/v1?message=Docker&logo=Docker&label=&color=2496ED&logoColor=white&labelColor=&style=flat-square)][docker] [![CloudFlare](https://img.shields.io/static/v1?message=CloudFlare&logo=cloudflare&label=&color=F38020&logoColor=white&labelColor=&style=flat-square)][cloudflare] [![Tailwind](https://img.shields.io/static/v1?message=Tailwind&logo=Tailwind%20CSS&label=&color=06B6D4&logoColor=white&labelColor=&style=flat-square)][tailwindcss]
+
+###### Computer Specs
+
+[![AMD Ryzen 5 5600x](https://img.shields.io/static/v1?message=AMD%20Ryzen%205%205600x&logo=AMD&label=&color=ED1C24&logoColor=white&labelColor=&style=flat-square)][cpulink] [![NVIDIA GeForce RTX 3060](https://img.shields.io/static/v1?message=NVIDIA%20GeForce%20RTX%203060&logo=NVIDIA&label=&color=76B900&logoColor=white&labelColor=&style=flat-square)][gpulink]
+<br>
+![32GB DDR4 RAM](https://img.shields.io/static/v1?message=32GB%20DDR4%20RAM&logo=&label=&color=F38020&logoColor=white&labelColor=&style=flat-square)
+[![ROG Strix B550-F Gaming WiFi 2](https://img.shields.io/static/v1?message=ROG%20Strix%20B550-F%20Gaming%20WiFi%202&logo=Republic%20of%20Gamers&label=&color=FF0029&logoColor=white&labelColor=&style=flat-square)][motherboardlink]
+
+## Reach Out!
+
+[![Email](https://img.shields.io/static/v1?message=Email&logo=Mail.ru&label=&color=EA4335&logoColor=white&style=for-the-badge)][email]
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=Discord&label=&color=5865F2&logoColor=white&style=for-the-badge)][discord]
+<br>
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=Twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge)][twitter]
+[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=Telegram&label=&color=26A5E4&logoColor=white&style=for-the-badge)][telegram]
+
+</div>
+
+<div style="float: right;" align="right">
+
+## Weekly Stats / Current Vibe
+
 <!--START_SECTION:waka-->
 
-```text
+```
 From: 26 February 2023 - To: 05 March 2023
 
-Kotlin           1 hr 24 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.08 %
-Rust             21 mins         ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.47 %
-TOML             3 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.11 %
-GitIgnore file   3 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.86 %
-JSON             1 min           ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.59 %
-CSS              1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.90 %
+Kotlin           1 hr 24 mins      71.08 %
+Rust             21 mins           18.47 %
+TOML             3 mins            03.11 %
+GitIgnore file   3 mins            02.86 %
+JSON             1 min             01.59 %
+CSS              1 min             00.90 %
 ```
 
 <!--END_SECTION:waka-->
-
-###
-
-<h3 align="left">🎶 Vibing To</h3>
-
-###
-
-<div align="left">
-  <img src="https://spotify-readme-lac.vercel.app/api?theme=dark&spin=false&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
+<img src="https://spotify-readme-lac.vercel.app/api?theme=dark&spin=false&scan=false&rainbow=true" alt="Widget with the current Spotify song"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FleroDev/FleroDev/output/snake.svg" alt="Snake animation" />
- </div>
-
-###
-
-<p>Note: Most of my active repositories are private.</p>
+</div>
