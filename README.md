@@ -118,14 +118,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2023 - To: 06 March 2023
+From: 28 February 2023 - To: 07 March 2023
 
-Kotlin           2 hrs 1 min     ███████████████████▒░░░░░   77.32 %
-Rust             21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-TOML             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-GitIgnore file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Kotlin           1 hr 32 mins    ████████████████████████░   96.19 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
