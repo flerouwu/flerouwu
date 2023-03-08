@@ -112,3 +112,7 @@ Properties       0 secs          ░░░░░░░░░░░░░░░�
 <br>
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=Twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge)][twitter]
 [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=Telegram&label=&color=26A5E4&logoColor=white&style=for-the-badge)][telegram]
+
+<img src="https://source.unsplash.com/400x200?fox" alt="Random fox image from Unsplash" />
+
+\- *fox out*
