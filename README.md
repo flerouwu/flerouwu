@@ -40,9 +40,6 @@
 
 </div>
 
-<div>
-<div align="left" style="float: left; width: 40%;">
-
 🌏 **Location:** South Australia
 
 🤙 **Pronouns:** He/Him
@@ -53,18 +50,25 @@
 
 📝 **Currently Working On:** [DashIt!][dashit]
 
-</div>
+## Weekly Stats
 
-<div align="right" style="float: right; width: 55%;">
+<!--START_SECTION:waka-->
 
+```text
+From: 28 February 2023 - To: 07 March 2023
+
+Kotlin           1 hr 32 mins    ████████████████████████░   96.19 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+```
+
+<!--END_SECTION:waka-->
+
+<!--
 <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=flerouwu" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&langs_count=5&theme=github_dark&hide_border=true&username=flerouwu&layout=compact" alt="languages graph" height="150"  />
-
-</div>
-</div>
-
-<div>
-<div style="float: left;" align="left">
+-->
 
 ## Known Languages / Tools
 
@@ -108,25 +112,3 @@
 <br>
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=Twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge)][twitter]
 [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=Telegram&label=&color=26A5E4&logoColor=white&style=for-the-badge)][telegram]
-
-</div>
-
-<div style="float: right;" align="right">
-
-## Weekly Stats / Current Vibe
-
-<!--START_SECTION:waka-->
-
-```text
-From: 28 February 2023 - To: 07 March 2023
-
-Kotlin           1 hr 32 mins    ████████████████████████░   96.19 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-```
-
-<!--END_SECTION:waka-->
-<img src="https://spotify-readme-lac.vercel.app/api?theme=dark&spin=false&scan=false&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
-</div>
