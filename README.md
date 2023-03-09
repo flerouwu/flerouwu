@@ -55,12 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
-Kotlin           1 hr 32 mins    ████████████████████████░   96.19 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Kotlin           1 hr 32 mins    >>>>>>>>>>>>>>>>>>>>>>---   87.66 %
+YAML             9 mins          >>-----------------------   08.87 %
+GitIgnore file   1 min           -------------------------   01.69 %
+XML              1 min           -------------------------   01.18 %
+Properties       0 secs          -------------------------   00.60 %
 ```
 
 <!--END_SECTION:waka-->
