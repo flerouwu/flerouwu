@@ -115,6 +115,6 @@ GitIgnore file   3 mins          -------------------------   01.13 %
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=Twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge)][twitter]
 [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=Telegram&label=&color=26A5E4&logoColor=white&style=for-the-badge)][telegram]
 
-<img src="https://source.unsplash.com/400x200?fox" alt="Random fox image from Unsplash" />
+<img src="[https://source.unsplash.com/400x200?fox](https://raw.githubusercontent.com/flerouwu/flerouwu/main/fluff.jpg)" alt="fluffy boi" />
 
-\- *fox out*
+*teleports away*
