@@ -55,14 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2023 - To: 20 March 2023
+From: 14 March 2023 - To: 21 March 2023
 
-Kotlin           7 hrs 9 mins    >>>>>>>>>>>>>>>>---------   65.90 %
-Dart             3 hrs 4 mins    >>>>>>>------------------   28.27 %
-SQL              15 mins         >------------------------   02.38 %
-YAML             13 mins         >------------------------   02.08 %
-Properties       3 mins          -------------------------   00.50 %
-GitIgnore file   2 mins          -------------------------   00.39 %
+Dart             4 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>-----   81.94 %
+Kotlin           51 mins         >>>>---------------------   16.93 %
+Properties       1 min           -------------------------   00.49 %
+CLASS            0 secs          -------------------------   00.27 %
+GitIgnore file   0 secs          -------------------------   00.15 %
+Groovy           0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
