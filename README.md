@@ -55,7 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 05 April 2023
+From: 30 March 2023 - To: 06 April 2023
 
 Kotlin           4 hrs 32 mins   >>>>>>>>>>>>>>>>>>>>>----   82.64 %
 C#               46 mins         >>>>---------------------   14.18 %
