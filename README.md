@@ -55,14 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2023 - To: 08 April 2023
+From: 02 April 2023 - To: 09 April 2023
 
-Kotlin           3 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.86 %
-XML              2 mins          -------------------------   01.34 %
-GitIgnore file   2 mins          -------------------------   00.99 %
-Properties       1 min           -------------------------   00.69 %
-TOML             0 secs          -------------------------   00.10 %
-textmate         0 secs          -------------------------   00.01 %
+Kotlin           2 hrs 30 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.91 %
+XML              2 mins          -------------------------   01.76 %
+GitIgnore file   2 mins          -------------------------   01.30 %
+Properties       1 min           -------------------------   00.90 %
+TOML             0 secs          -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->
