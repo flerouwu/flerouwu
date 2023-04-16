@@ -55,9 +55,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2023 - To: 14 April 2023
+From: 08 April 2023 - To: 15 April 2023
 
-Kotlin   13 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C#       3 hrs 8 mins    >>>>>>>>>>>>>>>>>>>>>----   82.99 %
+Binary   30 mins         >>>----------------------   13.42 %
+JSON     4 mins          -------------------------   01.84 %
+Other    3 mins          -------------------------   01.75 %
 ```
 
 <!--END_SECTION:waka-->
