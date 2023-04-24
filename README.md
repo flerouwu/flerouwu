@@ -55,12 +55,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2023 - To: 22 April 2023
+From: 16 April 2023 - To: 23 April 2023
 
-C#       35 mins         >>>>>>>>>>>>>>>>>>>------   77.91 %
-JSON     5 mins          >>>----------------------   11.70 %
-Binary   4 mins          >>>----------------------   10.37 %
-Other    0 secs          -------------------------   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
