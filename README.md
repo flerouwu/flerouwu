@@ -6,10 +6,12 @@
 [website]: https://flero.dev
 [github]: https://github.com/flerouwu
 
-[dashit]: https://dashit.dev/
+[dcbs]: https://dcbsgame.com/
 
+[rider]: https://jetbrains.com/rider/
 [kotlin]: https://kotlinlang.org/
-[rust]: https://www.rust-lang.org/
+[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
+[sdl2]: https://www.libsdl.org/
 [typescript]: https://www.typescriptlang.org/
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [react]: https://reactjs.org/
@@ -46,9 +48,9 @@
 
 📫 **Contact:** [Email][email] | [Discord][discord] | [Twitter][twitter] | [Telegram][telegram]
 
-📚 **Currently Learning:** [Kotlin][kotlin] and [Rust][rust]
+📚 **Currently Learning:** [C++][cpp] and [SDL2][sdl2]
 
-📝 **Currently Working On:** [DashIt!][dashit]
+📝 **Currently Working On:** [DCBS][dcbs]
 
 ## Weekly Stats
 
@@ -95,16 +97,22 @@ GitIgnore file   5 mins          >------------------------   03.64 %
 
 [![VSCode](https://img.shields.io/static/v1?message=VSCode&logo=Visual%20Studio%20Code&label=&color=007acc&logoColor=white&labelColor=&style=flat-square)][vscode] [![Visual Studio](https://img.shields.io/static/v1?message=Visual%20Studio&logo=Visual%20Studio&label=&color=5c2d91&logoColor=white&labelColor=&style=flat-square)][visualstudio] [![IntelliJ IDEA](https://img.shields.io/static/v1?message=IntelliJ%20IDEA&logo=IntelliJ%20IDEA&label=&color=000000&logoColor=white&labelColor=&style=flat-square)][intellijidea]
 
+<!-- Rider -->
+ [![Rider](https://img.shields.io/static/v1?message=Rider&logo=rider&label=&color=000000&logoColor=white&labelColor=&style=flat-square)][rider]
+
 ###### Misc
 
 [![Git](https://img.shields.io/static/v1?message=Git&logo=Git&label=&color=F05032&logoColor=white&labelColor=&style=flat-square)][git] [![Docker](https://img.shields.io/static/v1?message=Docker&logo=Docker&label=&color=2496ED&logoColor=white&labelColor=&style=flat-square)][docker] [![CloudFlare](https://img.shields.io/static/v1?message=CloudFlare&logo=cloudflare&label=&color=F38020&logoColor=white&labelColor=&style=flat-square)][cloudflare] [![Tailwind](https://img.shields.io/static/v1?message=Tailwind&logo=Tailwind%20CSS&label=&color=06B6D4&logoColor=white&labelColor=&style=flat-square)][tailwindcss]
 
 ###### Computer Specs
 
-[![AMD Ryzen 5 5600x](https://img.shields.io/static/v1?message=AMD%20Ryzen%205%205600x&logo=AMD&label=&color=ED1C24&logoColor=white&labelColor=&style=flat-square)][cpulink] [![NVIDIA GeForce RTX 3060](https://img.shields.io/static/v1?message=NVIDIA%20GeForce%20RTX%203060&logo=NVIDIA&label=&color=76B900&logoColor=white&labelColor=&style=flat-square)][gpulink]
+![Windows 11](https://img.shields.io/static/v1?message=Windows%2011&logo=Windows%2011&label=&color=0078D4&logoColor=white&labelColor=&style=flat-square) [![AMD Ryzen 5 5600x](https://img.shields.io/static/v1?message=AMD%20Ryzen%205%205600x&logo=AMD&label=&color=ED1C24&logoColor=white&labelColor=&style=flat-square)][cpulink] [![NVIDIA GeForce RTX 3060](https://img.shields.io/static/v1?message=NVIDIA%20GeForce%20RTX%203060&logo=NVIDIA&label=&color=76B900&logoColor=white&labelColor=&style=flat-square)][gpulink]
 <br>
 ![32GB DDR4 RAM](https://img.shields.io/static/v1?message=32GB%20DDR4%20RAM&logo=&label=&color=F38020&logoColor=white&labelColor=&style=flat-square)
 [![ROG Strix B550-F Gaming WiFi 2](https://img.shields.io/static/v1?message=ROG%20Strix%20B550-F%20Gaming%20WiFi%202&logo=Republic%20of%20Gamers&label=&color=FF0029&logoColor=white&labelColor=&style=flat-square)][motherboardlink]
+
+###### Laptop Specs
+![Arch Linux](https://img.shields.io/static/v1?message=Arch%20Linux&logo=Arch%20Linux&label=&color=1793D1&logoColor=white&labelColor=&style=flat-square) ![Intel Celeron N4100](https://img.shields.io/static/v1?message=Intel%20Celeron%20N4100&logo=Intel&label=&color=0071C5&logoColor=white&labelColor=&style=flat-square) ![8GB RAM](https://img.shields.io/static/v1?message=8GB%20RAM&logo=&label=&color=F38020&logoColor=white&labelColor=&style=flat-square)
 
 ## Reach Out!
 
