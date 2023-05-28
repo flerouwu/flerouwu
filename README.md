@@ -57,13 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 May 2023 - To: 26 May 2023
+From: 20 May 2023 - To: 27 May 2023
 
-Rust             2 hrs 35 mins   >>>>>>>>>>>>>>>>>>>------   76.53 %
-Kotlin           23 mins         >>>----------------------   11.51 %
-TOML             10 mins         >------------------------   04.98 %
-GitIgnore file   6 mins          >------------------------   03.42 %
-Properties       4 mins          >------------------------   02.27 %
+Rust             2 hrs 35 mins   >>>>>>>>>>>>>>>>>>>>>----   85.49 %
+TOML             10 mins         >------------------------   05.56 %
+GitIgnore file   6 mins          >------------------------   03.50 %
+Kotlin           5 mins          >------------------------   02.95 %
+Properties       1 min           -------------------------   01.06 %
 ```
 
 <!--END_SECTION:waka-->
