@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
 Rust             5 hrs 15 mins   >>>>>>>>>>>>>>-----------   57.19 %
 Kotlin           2 hrs 24 mins   >>>>>>>------------------   26.25 %
