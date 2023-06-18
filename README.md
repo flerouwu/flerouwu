@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2023 - To: 16 June 2023
+From: 10 June 2023 - To: 17 June 2023
 
 C#               56 mins         >>>>>>>>>>>>>>>>>>-------   71.13 %
 Rust             14 mins         >>>>---------------------   17.72 %
