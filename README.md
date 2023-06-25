@@ -57,12 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
-Kotlin           25 mins         >>>>>>>>>>>>>>>>>>>>>>---   86.54 %
-Properties       2 mins          >>-----------------------   09.93 %
-Java             0 secs          >------------------------   03.10 %
-GitIgnore file   0 secs          -------------------------   00.43 %
+C++              3 hrs 48 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.69 %
+Kotlin           25 mins         >>-----------------------   09.78 %
+Properties       2 mins          -------------------------   01.12 %
+Java             0 secs          -------------------------   00.35 %
+GitIgnore file   0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
