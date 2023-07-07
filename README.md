@@ -10,8 +10,6 @@
 
 [rider]: https://jetbrains.com/rider/
 [kotlin]: https://kotlinlang.org/
-[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
-[sdl2]: https://www.libsdl.org/
 [typescript]: https://www.typescriptlang.org/
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [react]: https://reactjs.org/
@@ -46,11 +44,7 @@
 
 🤙 **Pronouns:** He/Him
 
-📫 **Contact:** [Email][email] | [Discord][discord] | [Twitter][twitter] | [Telegram][telegram]
-
-📚 **Currently Learning:** [C++][cpp] and [SDL2][sdl2]
-
-📝 **Currently Working On:** [DCBS][dcbs]
+📫 **Contact:** [Email][email] | [Discord][discord] | [Telegram][telegram]
 
 ## Weekly Stats
 
