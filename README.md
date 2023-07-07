@@ -105,9 +105,6 @@ Gradle                10 mins         >------------------------   04.01 %
 ![32GB DDR4 RAM](https://img.shields.io/static/v1?message=32GB%20DDR4%20RAM&logo=&label=&color=F38020&logoColor=white&labelColor=&style=flat-square)
 [![ROG Strix B550-F Gaming WiFi 2](https://img.shields.io/static/v1?message=ROG%20Strix%20B550-F%20Gaming%20WiFi%202&logo=Republic%20of%20Gamers&label=&color=FF0029&logoColor=white&labelColor=&style=flat-square)][motherboardlink]
 
-###### Laptop Specs
-![Arch Linux](https://img.shields.io/static/v1?message=Arch%20Linux&logo=Arch%20Linux&label=&color=1793D1&logoColor=white&labelColor=&style=flat-square) ![Intel Celeron N4100](https://img.shields.io/static/v1?message=Intel%20Celeron%20N4100&logo=Intel&label=&color=0071C5&logoColor=white&labelColor=&style=flat-square) ![8GB RAM](https://img.shields.io/static/v1?message=8GB%20RAM&logo=&label=&color=F38020&logoColor=white&labelColor=&style=flat-square)
-
 ## Reach Out!
 
 [![Email](https://img.shields.io/static/v1?message=Email&logo=Mail.ru&label=&color=EA4335&logoColor=white&style=for-the-badge)][email]
