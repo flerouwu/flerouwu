@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2023 - To: 13 July 2023
+From: 07 July 2023 - To: 14 July 2023
 
 Java                  2 hrs 51 mins   >>>>>>>>>>>>>>>>---------   65.86 %
 JSON                  42 mins         >>>>---------------------   16.34 %
