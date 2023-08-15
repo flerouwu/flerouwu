@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2023 - To: 13 August 2023
+From: 07 August 2023 - To: 14 August 2023
 
-Kotlin                4 hrs 30 mins   >>>>>>>>>----------------   35.27 %
-TypeScript            2 hrs 10 mins   >>>>---------------------   16.97 %
-XML                   1 hr 49 mins    >>>>---------------------   14.30 %
-Java                  1 hr 4 mins     >>-----------------------   08.42 %
-JSON                  52 mins         >>-----------------------   06.83 %
+Kotlin                4 hrs 43 mins   >>>>>>>>>>---------------   38.57 %
+XML                   1 hr 49 mins    >>>>---------------------   14.90 %
+TypeScript            1 hr 30 mins    >>>----------------------   12.29 %
+Java                  1 hr 4 mins     >>-----------------------   08.77 %
+JSON                  47 mins         >>-----------------------   06.47 %
 ```
 
 <!--END_SECTION:waka-->
