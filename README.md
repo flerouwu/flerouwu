@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-C#               5 hrs 34 mins   >>>>>>>>>>>--------------   45.71 %
-TypeScript       2 hrs 31 mins   >>>>>--------------------   20.66 %
-XML              1 hr 21 mins    >>>----------------------   11.13 %
-Python           1 hr 16 mins    >>>----------------------   10.46 %
-Rust             48 mins         >>-----------------------   06.64 %
+TypeScript       6 hrs 36 mins   >>>>>>>>>----------------   37.15 %
+C#               5 hrs 34 mins   >>>>>>>>-----------------   31.31 %
+Rust             2 hrs 15 mins   >>>----------------------   12.72 %
+XML              1 hr 21 mins    >>-----------------------   07.62 %
+Python           1 hr 16 mins    >>-----------------------   07.17 %
 ```
 
 <!--END_SECTION:waka-->
