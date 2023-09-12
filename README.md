@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2023 - To: 10 September 2023
+From: 04 September 2023 - To: 11 September 2023
 
-TypeScript     8 hrs 16 mins   >>>>>>>>>>>>-------------   46.60 %
-Python         1 hr 56 mins    >>>----------------------   10.93 %
-JSON           1 hr 30 mins    >>-----------------------   08.47 %
-CSS            1 hr 16 mins    >>-----------------------   07.18 %
-C#             1 hr 3 mins     >------------------------   05.98 %
+TypeScript     8 hrs 30 mins   >>>>>>>>-----------------   30.05 %
+Vue.js         5 hrs 24 mins   >>>>>--------------------   19.09 %
+Rust           4 hrs 55 mins   >>>>---------------------   17.39 %
+Python         1 hr 56 mins    >>-----------------------   06.86 %
+JSON           1 hr 25 mins    >------------------------   05.05 %
 ```
 
 <!--END_SECTION:waka-->
