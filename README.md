@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
-Vue.js       58 mins         >>>>>>>>>----------------   34.30 %
-JSON         22 mins         >>>----------------------   13.38 %
-TypeScript   20 mins         >>>----------------------   11.81 %
-Python       19 mins         >>>----------------------   11.39 %
-Other        18 mins         >>>----------------------   10.81 %
+TypeScript   1 hr 1 min      >>>>>>>------------------   28.47 %
+Vue.js       58 mins         >>>>>>>------------------   27.34 %
+JSON         22 mins         >>>----------------------   10.62 %
+Other        19 mins         >>-----------------------   09.29 %
+Python       19 mins         >>-----------------------   09.07 %
 ```
 
 <!--END_SECTION:waka-->
