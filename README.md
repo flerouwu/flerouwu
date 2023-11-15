@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 12 November 2023
+From: 06 November 2023 - To: 13 November 2023
 
-TypeScript            12 hrs 5 mins   >>>>>>>>>>>>>>>>>>>------   76.95 %
-Java                  1 hr 44 mins    >>>----------------------   11.06 %
-JSON                  42 mins         >------------------------   04.55 %
-JavaScript            37 mins         >------------------------   03.93 %
-INI                   6 mins          -------------------------   00.72 %
+TypeScript            5 hrs 38 mins   >>>>>>>>>>---------------   40.96 %
+Java                  5 hrs 14 mins   >>>>>>>>>>---------------   38.06 %
+JSON                  55 mins         >>-----------------------   06.72 %
+JavaScript            37 mins         >------------------------   04.49 %
+textmate              19 mins         >------------------------   02.32 %
 ```
 
 <!--END_SECTION:waka-->
