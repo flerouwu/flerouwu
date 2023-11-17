@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-Java                  9 hrs 32 mins   >>>>>>>>>>>>>>>>>>-------   70.56 %
-Markdown              1 hr 15 mins    >>-----------------------   09.32 %
-textmate              36 mins         >------------------------   04.54 %
-JSON                  35 mins         >------------------------   04.32 %
-Groovy                21 mins         >------------------------   02.64 %
+Java                  11 hrs 41 mins  >>>>>>>>>>>>>>>>---------   65.78 %
+JSON                  1 hr 20 mins    >>-----------------------   07.55 %
+Markdown              1 hr 17 mins    >>-----------------------   07.29 %
+TOML                  1 hr 8 mins     >>-----------------------   06.38 %
+textmate              36 mins         >------------------------   03.45 %
 ```
 
 <!--END_SECTION:waka-->
