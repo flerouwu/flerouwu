@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Kotlin                17 hrs 45 mins  >>>>>>>>>>>>>>>>---------   64.27 %
-Java                  3 hrs 53 mins   >>>>---------------------   14.09 %
-Markdown              1 hr 16 mins    >------------------------   04.61 %
-TOML                  1 hr            >------------------------   03.64 %
-JSON                  59 mins         >------------------------   03.62 %
+Kotlin                22 hrs 39 mins  >>>>>>>>>>>>>>>>>>-------   70.81 %
+Java                  2 hrs 47 mins   >>-----------------------   08.71 %
+Markdown              1 hr 16 mins    >------------------------   03.98 %
+JSON                  1 hr 4 mins     >------------------------   03.36 %
+TOML                  1 hr 1 min      >------------------------   03.22 %
 ```
 
 <!--END_SECTION:waka-->
