@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Kotlin            6 hrs 12 mins   >>>>>>>>>>>--------------   45.28 %
-TypeScript        1 hr 52 mins    >>>----------------------   13.72 %
-Assembly          1 hr 12 mins    >>-----------------------   08.87 %
-Docker            1 hr 7 mins     >>-----------------------   08.21 %
-Bash              35 mins         >------------------------   04.27 %
+Dart              6 hrs 25 mins   >>>>>>>>>----------------   36.91 %
+Kotlin            6 hrs 15 mins   >>>>>>>>>----------------   36.02 %
+TypeScript        1 hr 52 mins    >>>----------------------   10.81 %
+XML               1 hr 10 mins    >>-----------------------   06.78 %
+JSON              28 mins         >------------------------   02.74 %
 ```
 
 <!--END_SECTION:waka-->
