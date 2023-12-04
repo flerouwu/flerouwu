@@ -47,7 +47,7 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&langs_count=5&theme=github_dark&hide_border=true&username=flerouwu&layout=compact" alt="languages graph" height="150"  />
 </div>
 
-## Weekly Stats
+## All Time Stats
 
 <!--START_SECTION:waka-->
 
