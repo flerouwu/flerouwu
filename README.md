@@ -1,56 +1,58 @@
-<!-- Link References  -->
-[discord]: https://discord.com/users/1059375676769189938
-[email]: mailto:flero@flero.dev
-[telegram]: https://t.me/flerouwu
-[twitter]: https://twitter.com/flerouwu
-[website]: https://flero.dev
-[github]: https://github.com/flerouwu
+# Howdy! I'm <img src="https://raw.githubusercontent.com/flerouwu/flerouwu/main/lil-cowboy.png?3" width="32" height="32" /> Flero <kbd>&nbsp; he/him/any &nbsp;</kbd>
 
-[dcbs]: https://dcbsgame.com/
+I'm a software developer originating from South Australia. I enjoy tinkering with software and creating user interfaces.
 
-[rider]: https://jetbrains.com/rider/
-[kotlin]: https://kotlinlang.org/
-[typescript]: https://www.typescriptlang.org/
-[csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[react]: https://reactjs.org/
-[nextjs]: https://nextjs.org/
-[electron]: https://www.electronjs.org/
-[spring]: https://spring.io/
-[ktor]: https://ktor.io/
-[discordjs]: https://discord.js.org/
-[postgresql]: https://www.postgresql.org/
-[mariadb]: https://mariadb.org/
-[redis]: https://redis.io/
-[vscode]: https://code.visualstudio.com/
-[visualstudio]: https://visualstudio.microsoft.com/
-[intellijidea]: https://www.jetbrains.com/idea/
-[git]: https://git-scm.com/
-[docker]: https://www.docker.com/
-[cloudflare]: https://www.cloudflare.com/
-[tailwindcss]: https://tailwindcss.com/
+Enjoy reading my profile, and I hope you have a good day! :heart:
 
-[cpulink]: https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x
-[gpulink]: https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3060-3060ti/
-[motherboardlink]: https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-wifi-ii-model/
-<!-- End Link References -->
+<a href="https://flero.dev/">
+    <kbd>
+        <br>
+        &nbsp;🌐 <strong>Website</strong>&nbsp;
+        <br>
+        <br>
+    </kbd>
+    </a>
 
-<div align="center">
+<a href="mailto:flero@flero.dev">
+    <kbd>
+        <br>
+        &nbsp;📬 <strong>Email</strong>&nbsp;
+        <br>
+        <br>
+    </kbd>
+</a>
 
-# 👋 Heyo, I'm Flero!
+<a href="https://discord.com/users/1059375676769189938">
+    <kbd>
+        <br>
+        &nbsp;💬 <strong>Discord</strong>&nbsp;
+        <br>
+        <br>
+    </kbd>
+</a>
 
+<a href="https://github.com/sponsors/flerouwu">
+    <kbd>
+        <br>
+        &nbsp;🩷 <strong>GitHub Sponsors</strong>&nbsp;
+        <br>
+        <br>
+    </kbd>
+</a>
+
+### GitHub Stats
+<!-- <p> allows it to be shown side-by-side -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=flerouwu" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&langs_count=5&theme=github_dark&hide_border=true&username=flerouwu&layout=compact" alt="languages graph" height="150"  />
 </div>
-
-🌏 **Location:** South Australia
-
-🤙 **Pronouns:** He/Him
-
-📫 **Contact:** [Email][email] | [Discord][discord] | [Telegram][telegram]
 
 ## Weekly Stats
 
 <!--START_SECTION:waka-->
 
-```txt
+<!-- Contrary to the below line, I don't know Haskell. -->
+```haskell
 From: 26 November 2023 - To: 03 December 2023
 
 Dart              8 hrs 43 mins   >>>>>>>>>----------------   37.89 %
@@ -62,9 +64,6 @@ JSON              1 hr 14 mins    >------------------------   05.37 %
 
 <!--END_SECTION:waka-->
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=flerouwu" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&langs_count=5&theme=github_dark&hide_border=true&username=flerouwu&layout=compact" alt="languages graph" height="150"  />
--->
-
-<img src="https://raw.githubusercontent.com/flerouwu/flerouwu/main/fluff.jpg" alt="fluffy boi" width="480" />
+<a href="https://raw.githubusercontent.com/flerouwu/flerouwu/main/fluff.jpg">
+  <kbd>fluff.jpg</kbd>
+</a>
