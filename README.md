@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
-Dart              6 hrs 25 mins   >>>>>>>>>----------------   36.91 %
-Kotlin            6 hrs 15 mins   >>>>>>>>>----------------   36.02 %
-TypeScript        1 hr 52 mins    >>>----------------------   10.81 %
-XML               1 hr 10 mins    >>-----------------------   06.78 %
-JSON              28 mins         >------------------------   02.74 %
+Dart              8 hrs 43 mins   >>>>>>>>>----------------   37.89 %
+Kotlin            5 hrs 5 mins    >>>>>>-------------------   22.14 %
+TypeScript        4 hrs 5 mins    >>>>---------------------   17.77 %
+XML               1 hr 55 mins    >>-----------------------   08.38 %
+JSON              1 hr 14 mins    >------------------------   05.37 %
 ```
 
 <!--END_SECTION:waka-->
