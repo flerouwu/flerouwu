@@ -51,15 +51,12 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 
 <!--START_SECTION:waka-->
 
-<!-- Contrary to the below line, I don't know Haskell. -->
 ```haskell
-From: 26 November 2023 - To: 03 December 2023
+From: 08 August 2020 - To: 03 December 2023
 
-Dart              8 hrs 43 mins   >>>>>>>>>----------------   37.89 %
-Kotlin            5 hrs 5 mins    >>>>>>-------------------   22.14 %
-TypeScript        4 hrs 5 mins    >>>>---------------------   17.77 %
-XML               1 hr 55 mins    >>-----------------------   08.38 %
-JSON              1 hr 14 mins    >------------------------   05.37 %
+Total Time: 865 hrs
+
+Other                  387 hrs 23 mins >>>>>>>>-----------------   30.93 %
 ```
 
 <!--END_SECTION:waka-->
