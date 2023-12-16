@@ -52,20 +52,20 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 08 August 2020 - To: 14 December 2023
+From: 08 August 2020 - To: 15 December 2023
 
-Total Time: 891 hrs 19 mins
+Total Time: 895 hrs 49 mins
 
-Other                  445 hrs 12 mins >>>>>>>>-----------------   33.31 %
-TypeScript             297 hrs 16 mins >>>>>>-------------------   22.24 %
-Kotlin                 141 hrs 37 mins >>>----------------------   10.60 %
-Java                   96 hrs 24 mins  >>-----------------------   07.21 %
-JavaScript             93 hrs 4 mins   >>-----------------------   06.96 %
-Rust                   54 hrs 48 mins  >------------------------   04.10 %
-JSON                   36 hrs 34 mins  >------------------------   02.74 %
-C#                     21 hrs 53 mins  -------------------------   01.64 %
-Dart                   21 hrs 41 mins  -------------------------   01.62 %
-Python                 17 hrs 37 mins  -------------------------   01.32 %
+Other                  448 hrs 4 mins  >>>>>>>>-----------------   33.34 %
+TypeScript             297 hrs 23 mins >>>>>>-------------------   22.13 %
+Kotlin                 141 hrs 37 mins >>>----------------------   10.54 %
+Java                   96 hrs 24 mins  >>-----------------------   07.17 %
+JavaScript             93 hrs 6 mins   >>-----------------------   06.93 %
+Rust                   58 hrs 36 mins  >------------------------   04.36 %
+JSON                   36 hrs 46 mins  >------------------------   02.74 %
+C#                     21 hrs 53 mins  -------------------------   01.63 %
+Dart                   21 hrs 41 mins  -------------------------   01.61 %
+Python                 17 hrs 37 mins  -------------------------   01.31 %
 ```
 
 <!--END_SECTION:waka-->
