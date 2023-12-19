@@ -11,15 +11,6 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
         <br>
         <br>
     </kbd>
-    </a>
-
-<a href="mailto:flero@flero.dev">
-    <kbd>
-        <br>
-        &nbsp;📬 <strong>Email</strong>&nbsp;
-        <br>
-        <br>
-    </kbd>
 </a>
 
 <a href="https://discord.com/users/1059375676769189938">
