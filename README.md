@@ -43,7 +43,7 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 08 August 2020 - To: 31 January 2024
+From: 08 August 2020 - To: 01 February 2024
 
 Total Time: 1,000 hrs 36 mins
 
