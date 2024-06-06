@@ -1,4 +1,4 @@
-# Howdy! I'm Flero <kbd>&nbsp; he/him/any &nbsp;</kbd>
+# Howdy! I'm Flero <kbd>he/him/any</kbd>
 
 I'm a software developer originating from South Australia. I enjoy tinkering with software and creating user interfaces.
 
