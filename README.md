@@ -1,4 +1,4 @@
-# Howdy! I'm <img src="https://raw.githubusercontent.com/flerouwu/flerouwu/main/lil-cowboy.png?3" width="32" height="32" /> Flero <kbd>&nbsp; he/him/any &nbsp;</kbd>
+# Howdy! I'm Flero <kbd>&nbsp; he/him/any &nbsp;</kbd>
 
 I'm a software developer originating from South Australia. I enjoy tinkering with software and creating user interfaces.
 
