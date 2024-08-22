@@ -43,20 +43,20 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 20 July 2024 - To: 19 August 2024
+From: 21 July 2024 - To: 20 August 2024
 
-Total Time: 66 hrs 1 min
+Total Time: 66 hrs 2 mins
 
-Kotlin                39 hrs 31 mins  >>>>>>>>>>>>>>>----------   59.84 %
-mcfunction            9 hrs 41 mins   >>>>---------------------   14.68 %
-Java                  6 hrs 57 mins   >>>----------------------   10.53 %
-JSON                  3 hrs 43 mins   >------------------------   05.64 %
+Kotlin                39 hrs 32 mins  >>>>>>>>>>>>>>>----------   59.84 %
+mcfunction            9 hrs 41 mins   >>>>---------------------   14.67 %
+Java                  7 hrs 15 mins   >>>----------------------   10.98 %
+JSON                  3 hrs 43 mins   >------------------------   05.63 %
 Markdown              2 hrs 12 mins   >------------------------   03.35 %
 TOML                  1 hr 27 mins    >------------------------   02.20 %
-YAML                  59 mins         -------------------------   01.50 %
-Properties            23 mins         -------------------------   00.58 %
+YAML                  1 hr            -------------------------   01.51 %
 XML                   18 mins         -------------------------   00.47 %
-GitIgnore file        13 mins         -------------------------   00.34 %
+Properties            12 mins         -------------------------   00.32 %
+GitIgnore file        12 mins         -------------------------   00.31 %
 ```
 
 <!--END_SECTION:waka-->
