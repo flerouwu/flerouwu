@@ -31,7 +31,7 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
     </kbd>
 </a>
 
-### GitHub Stats
+## GitHub Stats
 <!-- <p> allows it to be shown side-by-side -->
 <div>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=flerouwu" alt="stats graph"  />
