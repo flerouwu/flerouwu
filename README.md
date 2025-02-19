@@ -43,20 +43,20 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 17 January 2025 - To: 16 February 2025
+From: 18 January 2025 - To: 17 February 2025
 
-Total Time: 97 hrs 56 mins
+Total Time: 92 hrs 14 mins
 
-Kotlin            80 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>-----   81.20 %
-YAML              2 hrs 34 mins   >------------------------   02.60 %
-JSON              2 hrs 22 mins   >------------------------   02.39 %
-C++               1 hr 54 mins    -------------------------   01.92 %
-TypeScript        1 hr 43 mins    -------------------------   01.73 %
-Other             1 hr 15 mins    -------------------------   01.27 %
-TOML              1 hr 9 mins     -------------------------   01.17 %
-Docker            51 mins         -------------------------   00.87 %
-Terraform         50 mins         -------------------------   00.84 %
-XML               49 mins         -------------------------   00.83 %
+Kotlin            74 hrs 26 mins  >>>>>>>>>>>>>>>>>>>>-----   79.60 %
+YAML              3 hrs 2 mins    >------------------------   03.25 %
+JSON              2 hrs 22 mins   >------------------------   02.54 %
+C++               1 hr 54 mins    >------------------------   02.04 %
+TypeScript        1 hr 43 mins    -------------------------   01.84 %
+Docker            1 hr 18 mins    -------------------------   01.41 %
+Other             1 hr 17 mins    -------------------------   01.38 %
+Bash              1 hr 5 mins     -------------------------   01.16 %
+TOML              1 hr 2 mins     -------------------------   01.12 %
+Terraform         50 mins         -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
