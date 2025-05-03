@@ -43,7 +43,7 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 01 April 2025 - To: 01 May 2025
+From: 02 April 2025 - To: 02 May 2025
 
 Total Time: 28 hrs 46 mins
 
