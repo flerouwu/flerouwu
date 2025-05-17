@@ -43,18 +43,18 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 14 April 2025 - To: 14 May 2025
+From: 15 April 2025 - To: 15 May 2025
 
-Total Time: 20 hrs 54 mins
+Total Time: 20 hrs 56 mins
 
-Java                       7 hrs 3 mins    >>>>>>>>-----------------   32.38 %
-Kotlin                     6 hrs 29 mins   >>>>>>>------------------   29.76 %
-C#                         2 hrs 31 mins   >>>----------------------   11.55 %
-Rust                       1 hr 17 mins    >------------------------   05.91 %
-JSON                       1 hr 13 mins    >------------------------   05.65 %
+Java                       7 hrs 3 mins    >>>>>>>>-----------------   32.35 %
+Kotlin                     6 hrs 29 mins   >>>>>>>------------------   29.73 %
+C#                         2 hrs 31 mins   >>>----------------------   11.54 %
+Rust                       1 hr 17 mins    >------------------------   05.90 %
+JSON                       1 hr 13 mins    >------------------------   05.64 %
 Other                      53 mins         >------------------------   04.09 %
 Java Properties            20 mins         -------------------------   01.57 %
-JavaScript                 16 mins         -------------------------   01.28 %
+JavaScript                 16 mins         -------------------------   01.27 %
 Properties                 16 mins         -------------------------   01.24 %
 Python                     16 mins         -------------------------   01.24 %
 ```
