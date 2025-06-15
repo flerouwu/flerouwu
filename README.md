@@ -43,18 +43,18 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 13 May 2025 - To: 12 June 2025
+From: 14 May 2025 - To: 13 June 2025
 
-Total Time: 41 hrs 51 mins
+Total Time: 41 hrs 55 mins
 
-C#                        32 hrs 57 mins  >>>>>>>>>>>>>>>>>>>>-----   78.36 %
-Bash                      1 hr 27 mins    >------------------------   03.47 %
+C#                        33 hrs 2 mins   >>>>>>>>>>>>>>>>>>>>-----   78.40 %
+Bash                      1 hr 27 mins    >------------------------   03.46 %
 XML                       1 hr 17 mins    >------------------------   03.06 %
-csharp                    1 hr 14 mins    >------------------------   02.96 %
+csharp                    1 hr 14 mins    >------------------------   02.95 %
 IL                        1 hr 6 mins     >------------------------   02.64 %
-JSON                      48 mins         -------------------------   01.91 %
+JSON                      48 mins         -------------------------   01.90 %
 Csproj                    44 mins         -------------------------   01.76 %
-fish                      31 mins         -------------------------   01.24 %
+fish                      31 mins         -------------------------   01.23 %
 jsonc                     18 mins         -------------------------   00.75 %
 Other                     12 mins         -------------------------   00.50 %
 ```
