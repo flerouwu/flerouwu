@@ -43,20 +43,20 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 15 September 2025 - To: 15 October 2025
+From: 16 September 2025 - To: 16 October 2025
 
-Total Time: 3 hrs 45 mins
+Total Time: 2 hrs 39 mins
 
-JSON         1 hr 2 mins     >>>>>>>------------------   26.41 %
-TypeScript   49 mins         >>>>>--------------------   20.82 %
-Python       33 mins         >>>----------------------   13.91 %
-C++          28 mins         >>>----------------------   11.86 %
-JavaScript   16 mins         >>-----------------------   06.83 %
-Lua          13 mins         >------------------------   05.70 %
-Other        12 mins         >------------------------   05.05 %
-CMake        7 mins          >------------------------   03.04 %
-Groovy       6 mins          >------------------------   02.85 %
-XML          3 mins          -------------------------   01.44 %
+JSON         46 mins         >>>>>>>------------------   26.99 %
+Python       33 mins         >>>>>--------------------   19.31 %
+C++          28 mins         >>>>---------------------   16.47 %
+JavaScript   16 mins         >>-----------------------   09.49 %
+Lua          13 mins         >>-----------------------   07.91 %
+Other        12 mins         >>-----------------------   07.11 %
+CMake        7 mins          >------------------------   04.22 %
+Groovy       6 mins          >------------------------   03.95 %
+XML          3 mins          >------------------------   02.00 %
+Text         2 mins          -------------------------   01.40 %
 ```
 
 <!--END_SECTION:waka-->
