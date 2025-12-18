@@ -43,19 +43,19 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 15 November 2025 - To: 15 December 2025
+From: 16 November 2025 - To: 16 December 2025
 
-Total Time: 27 hrs 14 mins
+Total Time: 27 hrs 29 mins
 
-Rust             9 hrs 57 mins   >>>>>>>>-----------------   33.09 %
-Nix              4 hrs 43 mins   >>>>---------------------   15.70 %
-Other            2 hrs 51 mins   >>-----------------------   09.51 %
-fish             2 hrs 15 mins   >>-----------------------   07.48 %
-TypeScript       1 hr 48 mins    >------------------------   05.98 %
-Python           1 hr 28 mins    >------------------------   04.90 %
-JSON             1 hr 4 mins     >------------------------   03.56 %
-Bash             1 hr 1 min      >------------------------   03.43 %
-Markdown         43 mins         >------------------------   02.43 %
+Rust             9 hrs 57 mins   >>>>>>>>-----------------   33.17 %
+Nix              4 hrs 43 mins   >>>>---------------------   15.74 %
+Other            2 hrs 32 mins   >>-----------------------   08.44 %
+fish             2 hrs 15 mins   >>-----------------------   07.50 %
+TypeScript       1 hr 48 mins    >>-----------------------   06.00 %
+Python           1 hr 28 mins    >------------------------   04.92 %
+Bash             1 hr 16 mins    >------------------------   04.27 %
+JSON             1 hr 4 mins     >------------------------   03.57 %
+Markdown         43 mins         >------------------------   02.44 %
 Terraform        41 mins         >------------------------   02.28 %
 ```
 
