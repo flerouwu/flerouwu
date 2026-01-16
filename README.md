@@ -43,7 +43,7 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 14 December 2025 - To: 13 January 2026
+From: 15 December 2025 - To: 14 January 2026
 
 Total Time: 13 hrs 43 mins
 
