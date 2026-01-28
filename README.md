@@ -43,18 +43,18 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 26 December 2025 - To: 25 January 2026
+From: 27 December 2025 - To: 26 January 2026
 
-Total Time: 5 hrs 16 mins
+Total Time: 3 hrs 57 mins
 
-Rust             4 hrs 10 mins   >>>>>>>>>>>>>>>>>>>>-----   79.19 %
-C#               30 mins         >>-----------------------   09.74 %
-JSON             15 mins         >------------------------   04.78 %
-C++              13 mins         >------------------------   04.12 %
-TOML             6 mins          -------------------------   01.90 %
-C                0 secs          -------------------------   00.25 %
+Rust             2 hrs 54 mins   >>>>>>>>>>>>>>>>>>-------   73.51 %
+C#               30 mins         >>>----------------------   12.97 %
+JSON             15 mins         >>-----------------------   06.37 %
+C++              13 mins         >------------------------   05.48 %
+TOML             3 mins          -------------------------   01.31 %
+C                0 secs          -------------------------   00.34 %
 Unity3D Asset    0 secs          -------------------------   00.01 %
-GitIgnore file   0 secs          -------------------------   00.00 %
+GitIgnore file   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
