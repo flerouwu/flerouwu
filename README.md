@@ -43,13 +43,12 @@ Enjoy reading my profile, and I hope you have a good day! :heart:
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 30 December 2025 - To: 29 January 2026
+From: 31 December 2025 - To: 30 January 2026
 
-Total Time: 1 hr 20 mins
+Total Time: 1 hr 5 mins
 
-Rust             1 hr 4 mins     >>>>>>>>>>>>>>>>>>>>-----   80.29 %
-JSON             14 mins         >>>>---------------------   17.76 %
-TOML             1 min           -------------------------   01.93 %
+Rust             1 hr 4 mins     >>>>>>>>>>>>>>>>>>>>>>>>-   97.63 %
+TOML             1 min           >------------------------   02.35 %
 GitIgnore file   0 secs          -------------------------   00.02 %
 ```
 
