@@ -51,7 +51,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-<a href="https://raw.githubusercontent.com/flerouwu/flerouwu/main/fluff.jpg">
-  <kbd>fluff.jpg</kbd>
-</a>
